@@ -1,5 +1,6 @@
 Business Insights
 Insight 1: Strong Overall Profitability
+
 Profit Margin of 26.05% indicates healthy business performance.
 
 Insight 2: Electronics Category Drives Revenue
